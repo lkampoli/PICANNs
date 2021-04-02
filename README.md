@@ -2,8 +2,12 @@
 Physics Informed Convex Artificial Neural Networks
 
 # Description
+This repository contains the source code used for the work in \cite{}. It allows to train a PICANN network to learn the optimal transport map between a unknown target distribution and a reference distribution. The transport map then can be applied on the reference distribution to get the density estimation of the unknown distribution. The inverse map can be used to transform the samples from reference distribution to generate new samples from the target distribution.
+
+More details can be found in the article below.
 
 # References
+Will be added
 
 # Dependencies
 

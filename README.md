@@ -10,6 +10,11 @@ More details can be found in the article below.
 Will be added
 
 # Dependencies
+Python 3.6
+Numpy >= 1.19.1
+Pytorch >= 1.6.0
+Scipy >= 1.5.0
+Matplotlib >= 3.2.2
 
 # Usage
 To run experiments in Table 1 : Run the bash script "Run_Tbl1_Exp.sh" with the appropriate parameters. The script assumes there are 2 GPUs to run 10 experiments each. If not change the parameters in the script.
